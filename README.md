@@ -21,6 +21,6 @@ A full-stack Airbnb clone web application built using **Node.js**, **Express.js*
 |-----------|------------|----------|
 | React.js  | Node.js    | MongoDB  |
 | Axios     | Express.js | Mongoose |
-| React Router | JWT     | Cloudinary (for images) |
+| React Router | JWT     | AWS Bucket (for images) |
 
 
