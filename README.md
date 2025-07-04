@@ -23,11 +23,4 @@ A full-stack Airbnb clone web application built using **Node.js**, **Express.js*
 | Axios     | Express.js | Mongoose |
 | React Router | JWT     | Cloudinary (for images) |
 
----
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/airbnb-clone.git
-   cd airbnb-clone
